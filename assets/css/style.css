@@ -1,0 +1,38 @@
+body{background-color: blue;}
+
+#gameTitle{background-color: orange;
+    color: white;
+   width: 250px;
+    padding: 30px 20px 30px 20px;
+}
+#para{background-color: wheat;
+        color: green;
+    float: left;
+font-size: 15px;
+position: absolute;
+margin-bottom: 130px; }
+
+#wiLos{background-color: blueviolet;
+float: right;
+position: relative;
+padding: 50px 15px;
+margin-right: 1250px;
+}
+#eww{position: relative;
+margin-top: 200px;}
+
+#comPick{float: left;
+    background-color: crimson;
+    padding: 50px 50px;}
+
+#fuckThis{position: static;}
+
+#crystals{float: left;
+margin: 30px;}
+
+#yourScore{background-color: aquamarine;
+    padding: 50px;
+    float: left;
+    position: relative;
+    margin-top: 250px;
+}
